@@ -234,7 +234,12 @@ button {
 @media screen and (max-width: 420px) {
 
 #portrait-image-section {
-  height: 25vh;
+  height: 75vh;
+  filter: none;
+}
+
+#portrait-image-section:hover {
+  filter: none;
 }
 
 #main1 {
@@ -255,7 +260,7 @@ button {
   font-size: 14px;
   height: 50px;
   margin-bottom: 5px;
-  width: 50%;
+  width: 30%;
 }
 
 .wide p {

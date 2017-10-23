@@ -3,19 +3,46 @@
 }
 
 body {
-  background-color: gray;
-  padding-left: 20%;
-  padding-right: 20%;
+  background-color: #5F408E;
+  /*text-align: center;*/
+  /*padding-left: 30%;
+  padding-right: 30%;*/
 }
 
 h1 {
   text-align: center;
 }
 
-p {
+h2 {
+  text-align: center;
+  margin-top: 40px;
+}
 
+h3 {
+  margin-top: 25px;
+  text-align: center;
+}
+
+p {
+  margin-top: 10px;
+  margin-left: 30%;
+  margin-right: 30%;
 }
 
 ul {
-  width: 35%;
+  margin-top: 10px;
+  margin-left: 43%;
+  width: 40%;
+}
+
+li {
+  margin-top: 5px;
+}
+
+div {
+  text-align: center;
+}
+
+img {
+  width: 30%;
 }
